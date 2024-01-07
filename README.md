@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+My name is Marquise! nice to meet you!My Pronouns are: He/Him. Im currently working on becoming a Full-time software and learning JavaScript.I love video games, both pc and console!
+You can reach out to me at: xzeerow@gmail.com
 <!--
 **Wolfyami/Wolfyami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
